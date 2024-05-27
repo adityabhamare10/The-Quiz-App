@@ -3,4 +3,5 @@
     <string name="quiz_app">Quiz App</string>
     <string name="ready_for_the_challenge">Ready for the Challenge ?</string>
     <string name="next">Next</string>
+    <string name="correct">Correct</string>
 </resources>
